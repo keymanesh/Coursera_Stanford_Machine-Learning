@@ -1,4 +1,6 @@
-Course Title: Machine Learning
+##Course Information
+
+Course Title: **Machine Learning**
 
 Instructor: Andrew Ng
 
@@ -7,6 +9,7 @@ University: Stanford, Computer Science Department
 Delivered by: Coursera
 
 
+## Course Description
 
 This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. 
 
@@ -34,4 +37,6 @@ The course will also draw from numerous case studies and applications, so that y
 
 
 
-## Reference: https://www.coursera.org/course/ml
+### Reference 
+
+https://www.coursera.org/course/ml
